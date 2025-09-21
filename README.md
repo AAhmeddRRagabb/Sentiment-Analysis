@@ -28,7 +28,7 @@ The project was structured into four main stages:
 
 ## Notes
 - The dataset was obtained from the Kaggle [IMDB Movie Reviews](https://www.kaggle.com/datasets/vishakhdapat/imdb-movie-reviews) dataset.
-- The GloVe file can not be uploaded here. It can be accessed through [GloVe Embeddings](https://nlp.stanford.edu/projects/glove/)
+- The GloVe file can not be uploaded here. It can be accessed via [GloVe Embeddings](https://nlp.stanford.edu/projects/glove/)
 ---
 ***Alhamdulilllah***
 
